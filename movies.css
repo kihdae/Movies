@@ -1,0 +1,16 @@
+#rowsMovies{
+    display: grid;
+    width: 10px;
+    border: 10px;
+}
+
+#BM{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    position: absolute;
+    top: 0.5em;
+    left: 90em;
+    width: 100%;
+    text-align: center;
+}
