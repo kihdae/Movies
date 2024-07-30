@@ -1,0 +1,16 @@
+[
+    {
+        "title": "inception",
+        "genre": "Sci-Fi",
+        "description": "...",
+        "time": "148m",
+        "image": "inception.img"
+    },
+    {
+        "title": "dark knight",
+        "genre": "action",
+        "description": "...",
+        "time": "152m",
+        "image": "dark_knight.img"
+    }
+]
